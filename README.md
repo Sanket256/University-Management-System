@@ -1,0 +1,2 @@
+# University-Management-System
+CORE JAVA, MYSQL, SQL, JDBC, CONSOL BASED APPLICATION
